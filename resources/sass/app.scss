@@ -1,0 +1,18 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+$primary: #3498db;
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// this is where I would put other styles
+a:hover {
+    text-decoration: none;
+}
+
+html, body {
+    background: #f9f9f9;
+}
